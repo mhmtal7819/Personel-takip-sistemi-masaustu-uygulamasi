@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\bin\Debug\İnKa.exe.config
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\bin\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\bin\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.PersonelEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\Debug\İnKa.pdb

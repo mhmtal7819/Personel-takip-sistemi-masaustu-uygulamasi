@@ -1,0 +1,151 @@
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.ParolaGüncelleme.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\furkan\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\mühendislik projesi\İnKa\İnKa\İnKa\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\furka\OneDrive\Masaüstü\ÜNİVERSİTE\Mühendislik Projesi 1\İnKa\obj\x86\Debug\İnKa.pdb
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\bin\x86\Debug\İnKa.exe.config
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\bin\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\bin\x86\Debug\İnKa.pdb
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.Form1.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.KullanıcıGirişEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.ParolaGuncelleme.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.PersonelEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.Properties.Resources.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.YeniKayit.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.YöneticiEkranı.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.İsBasvurusu.resources
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.exe
+C:\Users\User\Desktop\mühendislik projesi\İnKa (2)\İnKa\obj\x86\Debug\İnKa.pdb
